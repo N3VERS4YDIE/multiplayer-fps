@@ -1,0 +1,4 @@
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
+*.wlt linguist-detectable=false
+Assets/Plugins/* linguist-vendored
