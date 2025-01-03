@@ -1,15 +1,18 @@
 # Multiplayer FPS 🔫
 
-This is currently a work in progress multiplayer FPS game. The game is being developed using Unity, Fishnet for networking and ParrelSync for multiplayer testing.
+This is a Unity base for a multiplayer FPS game using Fishnet as networking solution.
 
 https://github.com/user-attachments/assets/3a7917d9-8730-4b04-8d65-a9bf239ff6f8
 
 ## Features
 
-- [x] Multiplayer
-- [x] Movement
-- [x] Jumping
-- [x] Sliding
+- Multiplayer
+- Movement
+- Jumping
+- Temporal Super Speed
+- Shooting
+- Health
+- Respawning
 
 ## License
 
