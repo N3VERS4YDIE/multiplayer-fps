@@ -2,7 +2,7 @@
 
 This is a Unity base for a multiplayer FPS game using Fishnet as networking solution.
 
-https://github.com/user-attachments/assets/3a7917d9-8730-4b04-8d65-a9bf239ff6f8
+https://github.com/user-attachments/assets/1e29b5ee-4726-4e83-a8d5-2b29e21a9892
 
 ## Features
 
